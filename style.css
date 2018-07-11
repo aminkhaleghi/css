@@ -1,0 +1,11 @@
+p{
+    direction: rtl;
+    width: 300px;
+    height: 100px;
+    border-style: solid;
+    
+    margin: 20% auto;
+    
+    padding: 50px;
+    text-align: justify; /* مرتب سازی متون */
+}
